@@ -2,6 +2,9 @@
 
 $realInput = file_get_contents('real_input.txt', true);
 
+// Part 1 :
+// Part 2 : 601
+
 $sample = "7 6 4 2 1
 1 2 7 8 9
 9 7 6 2 1
